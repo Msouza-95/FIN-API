@@ -1,7 +1,7 @@
 
 # FinApi 
 
-Api de finanças simple feita em memória.
+Api de finanças simples  feita em memória para treinar os conceitos de rotas com nodejs.
 
 # Instalação 
 
